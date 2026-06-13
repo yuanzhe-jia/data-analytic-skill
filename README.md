@@ -1,29 +1,17 @@
 # Data Analytic Skill
 
-A thinking framework and planning tool designed to guide intelligent agents through systematic data analysis. This skill decomposes complex questions into structured workflows, providing targeted guidance without performing NLU or actual data analysis.
+A thinking framework and planning tool designed to guide agents through systematic data analysis. This skill decomposes complex questions into structured workflows, providing targeted guidance without performing NLU or actual data analysis.
 
 ## Core Concept
 
 This skill serves as an analysis navigator for agents. It doesn't understand natural language or compute data—it provides a structured framework that agents can use to organize their analysis approach.
 
-### Responsibility Division
-
-| Responsibility | Provider |
-|----------------|----------|
-| Intent Recognition | Agent's LLM |
-| Analysis Planning | This Skill |
-| Data Execution | Agent/Tools |
-
-## Analysis Framework
-
-Four core analysis dimensions form the foundation of this framework:
-
 | Dimension | Purpose | Key Focus |
 |-----------|---------|-----------|
-| **BENCHMARK** | Establish baselines and statistical thresholds | Is the change meaningful? |
-| **CLASSIFICATION** | Segment data to identify anomalies | Where is the change occurring? |
-| **ATTRIBUTION** | Quantify contributions of causal factors | Why did it happen? |
-| **PREDICTION** | Forecast future trends and outcomes | What will happen next? |
+| `BENCHMARK` | Establish baselines and statistical thresholds | Is the change meaningful? |
+| `CLASSIFICATION` | Segment data to identify anomalies | Where is the change occurring? |
+| `ATTRIBUTION` | Quantify contributions of causal factors | Why did it happen? |
+| `PREDICTION` | Forecast future trends and outcomes | What will happen next? |
 
 ## Quick Start
 
