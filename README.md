@@ -1,10 +1,12 @@
 # Data Analytic Skill
 
-A thinking framework and planning tool designed to guide agents through systematic data analysis. This skill decomposes complex questions into structured workflows, providing targeted guidance without performing NLU or actual data analysis.
+A thinking framework and planning tool designed to guide agents through systematic data analysis. 
+This skill decomposes complex questions into structured workflows, providing targeted guidance without performing NLU or actual data analysis.
 
 ## Core Concept
 
-This skill serves as an analysis navigator for agents. It doesn't understand natural language or compute data—it provides a structured framework that agents can use to organize their analysis approach.
+This skill serves as an analysis navigator for agents. 
+It doesn't understand natural language or compute data—it provides a structured framework that agents can use to organize their analysis approach.
 
 | Dimension | Purpose | Key Focus |
 |-----------|---------|-----------|
